@@ -1,0 +1,1 @@
+A fast, convenient Streamlit web app that converts selected page ranges of any PDF into a Word document (.docx), preserving the original page layout with high-resolution images. Each PDF page is rendered as an image and inserted into a Word file in order, ensuring visual fidelity even for complex and non-editable layouts.
